@@ -4,4 +4,5 @@
 
 ✨This journey has been incredibly rewarding, and I’m excited to apply these skills to real-world data challenges. A big thank you to everyone who supported me along the way!
 Excited to explore more challenges! 💻🚀
-hashtag#LeetCode hashtag#SQL hashtag#TechJourney hashtag#Learning hashtag#Success hashtag#ContinuousLearning hashtag#AchievementUnlocked hashtag#Database hashtag#DrGViswanathanChallenge hashtag#Coding
+
+![image](https://github.com/user-attachments/assets/73edbf0a-5a26-469f-b00e-85e631e08406)
